@@ -1,2 +1,1 @@
-# baratviral
-baratviral
+# [baratviral](https://baratviral.pages.dev)
